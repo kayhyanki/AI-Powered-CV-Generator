@@ -1,4 +1,4 @@
 PyPDF2
-google-generativeai as genai
+google.generativeai
 tempfile
 os
