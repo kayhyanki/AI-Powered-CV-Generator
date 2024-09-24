@@ -1,6 +1,7 @@
-# AI-Powered Cover Letter Generator
+# GenAI-Powered Cover Letter Generator
 
 This project streamlines the cover letter creation process by leveraging the power of Google's Generative AI. It helps you tailor cover letters to specific job descriptions, potentially increasing your chances of landing your dream job!
+The app is live here: [GenAI-Powered CV Generator](https://ai-powered-cv-generator-by-kayhyanki.streamlit.app/)
 
 **Features:**
 
@@ -29,5 +30,7 @@ This project streamlines the cover letter creation process by leveraging the pow
 3. Run the Streamlit App : `streamlit run your_app.py`
 4. Provide Information
 5. Generate Cover Letter
+
+![image](https://github.com/user-attachments/assets/7c30b333-513d-42b6-90db-e810cf6a0d19)
 
 
