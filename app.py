@@ -39,7 +39,7 @@ def generate_model_content(job_title, experience, skills, bytes_resume_data):
 
 def main():
     st.markdown("""
-    # 📝 AI-Powered Cover Letter Generator
+    # 📝 GenAI-Powered Cover Letter Generator
 
     Generate a cover letter. All you need to do is:
     1. Upload your resume or copy your resume/experiences
