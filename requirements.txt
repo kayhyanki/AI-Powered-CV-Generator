@@ -3,5 +3,4 @@ pandas
 --pre tempfile
 PyPDF2
 google.generativeai
-os
 
