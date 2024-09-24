@@ -1,6 +1,6 @@
 streamlit
 pandas
-tempfile
+--pre tempfile
 PyPDF2
 google.generativeai
 os
