@@ -30,7 +30,7 @@ The app is live here: [GenAI-Powered CV Generator](https://ai-powered-cv-generat
 3. Run the Streamlit App : `streamlit run your_app.py`
 4. Provide Information
 5. Generate Cover Letter
-
-![image](https://github.com/user-attachments/assets/7c30b333-513d-42b6-90db-e810cf6a0d19)
+   
+![image](https://github.com/user-attachments/assets/c9db7aa6-636e-454b-9a7f-91c701bf2c4a)
 
 
