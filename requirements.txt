@@ -1,1 +1,4 @@
 PyPDF2
+google.generativeai as genai
+tempfile
+os
