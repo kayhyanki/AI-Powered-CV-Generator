@@ -13,7 +13,8 @@ The app is live here: [GenAI-Powered CV Generator](https://ai-powered-cv-generat
 **Technologies:**
 
 - Streamlit: A Python framework for building web applications with a focus on data visualization and user interaction.
-- Google Generative AI: A powerful platform for generating creative text content, including cover letters in this case.
+- Google Generative AI: A powerful platform for generating creative text content, including cover letters in this case. This project utilizes GenAI service through an API key to access its powerful language generation capabilities.
+
 - PyPDF2: A Python library for working with PDF documents, allowing extraction of text from uploaded resumes.
 - tempfile: A Python module for creating temporary files, used for secure handling of uploaded PDFs.
 - Pandas: While not explicitly used in the provided code, pandas can be a valuable tool for data manipulation if you plan to integrate resume data in more advanced ways.
