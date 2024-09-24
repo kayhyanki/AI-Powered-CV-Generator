@@ -1,3 +1,5 @@
+streamlit
+pandas
 tempfile
 PyPDF2
 google.generativeai
